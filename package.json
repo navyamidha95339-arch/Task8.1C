@@ -1,0 +1,10 @@
+{
+  "name": "task3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "license": "ISC"
+}
